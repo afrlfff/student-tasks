@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Program">
+      <UniqueIdentifier>{1d28bf8e-34a2-410a-a071-f2b5a08ee93b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\SortFunctions">
+      <UniqueIdentifier>{1c096d61-ae16-4571-bd41-ae9ee8fa1266}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Helpers">
+      <UniqueIdentifier>{bed3c260-05d8-431d-bfe1-9935dffe0f29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Measuring">
+      <UniqueIdentifier>{b0a8618b-3049-4985-a1d0-79b780611870}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Program.cpp">
+      <Filter>Исходные файлы\Program</Filter>
+    </ClCompile>
+    <ClCompile Include="CallSort.cpp">
+      <Filter>Исходные файлы\Program</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleSort.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSort.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapSort.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="ShellSort1.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="ShellSort2.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="ShellSort3.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="Split.cpp">
+      <Filter>Исходные файлы\Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="OutArray.cpp">
+      <Filter>Исходные файлы\Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="TimSort.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroSort.cpp">
+      <Filter>Исходные файлы\SortFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMeasuring.cpp">
+      <Filter>Исходные файлы\Measuring</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CallSort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Split.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="SortFunctions.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="constants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="OutArray.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

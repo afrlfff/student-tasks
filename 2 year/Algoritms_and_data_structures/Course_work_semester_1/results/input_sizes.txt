@@ -1,0 +1,9 @@
+Filename | Size (Kbytes)
+
+cartoon1.jpg | 81.566
+cartoon2.jpg | 271.890
+city.jpg | 149.396
+nature.jpg | 85.130
+paints.jpg | 122.235
+space.jpg | 518.214
+text.jpg | 192.242

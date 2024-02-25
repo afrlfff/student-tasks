@@ -1,0 +1,7 @@
+Filename | Threshold | TimeToBuildTree(seconds) | TimeToGetImage(seconds)
+
+cartoon1.jpg | 0 | 5.163 | 1.618
+cartoon1.jpg | 50 | 4.739 | 0.730
+cartoon1.jpg | 100 | 3.622 | 0.670
+cartoon1.jpg | 150 | 3.822 | 0.628
+cartoon1.jpg | 200 | 3.745 | 0.637

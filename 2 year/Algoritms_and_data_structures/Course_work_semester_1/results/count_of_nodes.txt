@@ -1,0 +1,7 @@
+Filename | Threshold | CountOfNodes
+
+cartoon1.jpg | 0 | 1455445
+cartoon1.jpg | 50 | 90817
+cartoon1.jpg | 100 | 47103
+cartoon1.jpg | 150 | 25277
+cartoon1.jpg | 200 | 17381
